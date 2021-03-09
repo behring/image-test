@@ -1,13 +1,13 @@
 {
-  "code": 0,
-  "message": "Success",
-  "data": [{
-    "name":"小明",
-    "level": 20,
-    "postCount":140
-  },
-    "name":"小张",
-    "level": 5,
-    "postCount":20
-  }]
+	"code": 0,
+	"message": "Success",
+	"data": [{
+			"name": "小明",
+			"level": 20,
+			"postCount": 140
+		}, {
+		"name": "小张",
+		"level": 5,
+		"postCount": 20
+	}]
 }
